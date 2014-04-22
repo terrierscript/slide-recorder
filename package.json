@@ -1,0 +1,11 @@
+{
+  "name": "slide-recorder",
+  "version": "0.0.0",
+  "description": "record silde with webdriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "author": "suisho",
+  "license": "ISC"
+}
